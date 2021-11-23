@@ -60,7 +60,7 @@ class BestSell extends StatelessWidget {
                     child: Container(
                       padding: EdgeInsets.all(8),
                       decoration: BoxDecoration(
-                          color: Colors.white.withOpacity(2.9),
+                          color: Colors.white.withOpacity(0.9),
                           shape: BoxShape.circle),
                       child: Icon(
                         Icons.favorite,
